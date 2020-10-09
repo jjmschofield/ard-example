@@ -3,12 +3,12 @@ A single document approach to ARD's inspired by [this template from Michael Nyga
 
 Tries to shrink the format yet further.
 
-## Template
+### Template
 
 ---
 
 ### ID - Title 
-***Status***
+**Status**
   
 **Context** 
 
@@ -26,11 +26,12 @@ Impact of the decision, likely to be both positive and negative.
 
 Status might be: Accepted, Proposed, Superseded
 
-## ARDs
+### ARDs
+
 ---
 
 ### ARD-1 - Decisions will not be spread over multiple files
-***Proposed***
+**Proposed**
 
 **Context**
 
