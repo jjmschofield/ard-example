@@ -8,7 +8,7 @@ Tries to shrink the format yet further.
 ---
 
 ### ID - Title 
-**Status**
+**Status** (Accepted, Proposed, Superseded)
   
 **Context** 
 
@@ -23,8 +23,6 @@ What is change that has been made.
 Impact of the decision, likely to be both positive and negative.
 
 ---
-
-Status might be: Accepted, Proposed, Superseded
 
 ### ARDs
 
